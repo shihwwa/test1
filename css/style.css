@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Playfair', serif;
+    font-size: 1.25em; /*20px*/
+    line-height: 1.75em;
+}
+
+header {
+    background-color: rgba(233, 150, 122, 0.89);
+}
+footer {
+    background-color: rgba(163, 89, 65, 0.596);
+}
+.container{
+    max-width: 1140px;
+    margin:0 auto;
+    padding: 50px 20px;
+}
+
+h1{ 
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.logo{
+    width: 2.5rem;
+    display: block;
+    margin: 0 auto;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+p{
+    text-indent: 1.5em;
+}
+.avatar{
+    margin: 0 auto;
+    max-width: 400px;
+    width: 80%;
+    display: block;
+}
+
+.main-nav{
+    list-style: none;
+    text-align: center;
+}
+
+.nav-item{
+    display: inline-block;
+    margin: 5px 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.content{
+    background-color: rgba(233, 150, 122, 0.603);
+    width: 300px;
+    border: 1px solid black;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+h4{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.logo2{
+    margin:0 auto;
+    max-width: 300px;
+    width: 40%;
+    display: block;
+}
+
+.ava{
+    margin:0 auto;
+    max-width: 700px;
+    width: 80%;
+    display: block;
+}
+
+h5{
+    text-align: center;
+    font-size: 1.5rem;  
+}
